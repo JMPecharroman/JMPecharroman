@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ## Enlaces:
 
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=101010)](mailto:josempecharroman@proton.me)
+[![Web](https://img.shields.io/badge/Web-14a1f0?style=for-the-badge&logo=safari&logoColor=white&labelColor=101010)](https://jmpecharroman.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jmpecharroman)
-[![Web](https://img.shields.io/badge/Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jmpecharroman.com)
